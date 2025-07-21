@@ -1,9 +1,6 @@
 
 start command : npm run dev
 
-
-
-
 # 📰 NewsWave - Personalized News App
 
 NewsWave is a responsive React.js news application that fetches the latest headlines using the NewsAPI. It features infinite scrolling, category filtering, and a preferences settings page to enhance user experience.
@@ -35,6 +32,9 @@ NewsWave is a responsive React.js news application that fetches the latest headl
 - 💾 **LocalStorage** to persist preferences
 - 💡 **Sort by date** (newest/oldest)
 - 📱 **Responsive UI**
+- User Preferences
+- Search Bar: Allow users to search for content across different categories
+- Debounced Search: debounced search functionality to optimize performance while the user types.
 
 ---
 
