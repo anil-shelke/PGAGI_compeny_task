@@ -6,7 +6,8 @@ start command : npm run dev
 NewsWave is a responsive React.js news application that fetches the latest headlines using the NewsAPI. It features infinite scrolling, category filtering, and a preferences settings page to enhance user experience.
 
 ---
-
+screenshot - 
+https://github.com/anil-shelke/PGAGI_compeny_task/blob/main/Screenshot%202025-07-21%20173329.png
 
 - **Home Page** with news cards and infinite scroll
 - **Settings Page** for selecting preferred categories
